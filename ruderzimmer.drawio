@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T14:39:34.030Z" agent="5.0 (Windows)" etag="vjjfSlR4ay5duAoWbNCG" version="20.0.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-12T14:40:02.424Z" agent="5.0 (Windows)" etag="pbMUabpYwCcSKYK-VPWL" version="20.0.4" type="github" pages="2">
   <diagram id="GN6P7tGJ_L0M5nmcAcI-" name="Erdgeschoss">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -149,9 +149,6 @@
         </mxCell>
         <mxCell id="QEtKRYTqvnwMKwyG-rI7-7" value="2807 x 3987 = 11191509 (mm&lt;sup&gt;2&lt;/sup&gt;)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="360" y="840" width="200" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="xewGkp0DbNsFbW1LdlJr-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=10;" edge="1" parent="1" source="QEtKRYTqvnwMKwyG-rI7-13" target="lJlIjVoFZt-crFqo6wyp-12">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QEtKRYTqvnwMKwyG-rI7-13" value="2582025&lt;br&gt;+ 84127700&lt;br&gt;+ 127500&lt;br&gt;+ 661374&lt;br&gt;+ 755604&lt;br&gt;+ 1863000&lt;br&gt;+ 202293&lt;br&gt;+ 1384137&lt;br&gt;+ 3456729&lt;br&gt;+ 11191509&lt;br&gt;+ 669655&lt;br&gt;&lt;div&gt;=&amp;nbsp; 31311526 (mm&lt;sup&gt;2&lt;/sup&gt;)&lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;= 31,31 (m&lt;sup&gt;2&lt;/sup&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="649.5" y="470" width="100" height="40" as="geometry" />
