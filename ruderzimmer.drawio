@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T11:14:22.013Z" agent="5.0 (Windows)" etag="gGdf107V5UZKlkpeO0dr" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-12T11:19:05.621Z" agent="5.0 (Windows)" etag="euF_hVl9qfAqZrrC-OmD" version="20.0.4" type="github" pages="3">
   <diagram id="CSa5qXbMmdBcm2d1L7wk" name="Ruderzimmer">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -72,7 +72,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="yc9DwopKEaXccD5_II3W" name="Bad">
+  <diagram id="yc9DwopKEaXccD5_II3W" name="Bad (oben)">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -116,7 +116,7 @@
         <mxCell id="mtiANbGwsNEHT-Cs2vWS-13" value="202293&lt;br&gt;&lt;div&gt;+ 1384137&lt;br&gt;= 1586430 &lt;br&gt;&lt;/div&gt;&lt;br&gt;&lt;br&gt;= 1,58 (m&lt;sup&gt;2&lt;/sup&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;fontColor=none;" vertex="1" parent="1">
           <mxGeometry x="610" y="480" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="1YfKz_EJvu64baT023gT-1" value="Bad" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="1YfKz_EJvu64baT023gT-1" value="Bad (oben)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="120" y="80" width="160" height="30" as="geometry" />
         </mxCell>
       </root>
