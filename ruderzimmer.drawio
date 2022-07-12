@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-12T14:51:04.258Z" agent="5.0 (Windows)" etag="fCwI2V5mBqFdYMDpSulI" version="20.0.4" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-07-12T14:51:29.920Z" agent="5.0 (Windows)" etag="XRAsc97zT2_gQvd9YW6Z" version="20.0.4" type="github" pages="3">
   <diagram id="GN6P7tGJ_L0M5nmcAcI-" name="Erdgeschoss">
     <mxGraphModel dx="1185" dy="635" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -121,10 +121,10 @@
         <mxCell id="93Z_Vi_R_FymRmdtfYBb-4" value="2080" style="shape=dimension;direction=west;whiteSpace=wrap;html=1;align=center;points=[];verticalAlign=top;spacingTop=-8;labelBackgroundColor=#ffffff;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="520" y="820" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="Ix563AFV0KWOiRUrgnIv-1" value="&lt;div&gt;Gesamt:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Erdgeschoss&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Obergeschoss&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Terasse&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Ix563AFV0KWOiRUrgnIv-1" value="&lt;div&gt;Wohnflaeche:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Erdgeschoss&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Obergeschoss&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Terasse&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="40" y="40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ix563AFV0KWOiRUrgnIv-2" value="&lt;div&gt;Gesamt:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;43,52 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;31,31 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7,46 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;sup&gt;--------------------------&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;82,29 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="Ix563AFV0KWOiRUrgnIv-2" value="&lt;div&gt;&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;43,52 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;31,31 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;7,46 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;sup&gt;--------------------------&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;82,29 m&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="200" y="40" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
