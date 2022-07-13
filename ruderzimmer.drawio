@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T09:34:56.875Z" agent="5.0 (Windows)" etag="UWg2gDzefDDFWqJqyjnx" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:35:10.384Z" agent="5.0 (Windows)" etag="ZHpz3zKNRS53QowTqO1o" version="20.1.1" type="github" pages="2">
   <diagram id="GN6P7tGJ_L0M5nmcAcI-" name="Erdgeschoss">
     <mxGraphModel dx="1673" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="dkQlxAO3vUwvlzerJfMj-0" />
         <mxCell id="dkQlxAO3vUwvlzerJfMj-1" parent="dkQlxAO3vUwvlzerJfMj-0" />
         <mxCell id="uho8HYjAd-tPWLUWSc0o-0" value="" style="rounded=0;whiteSpace=wrap;html=1;fillStyle=auto;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="dkQlxAO3vUwvlzerJfMj-1">
-          <mxGeometry x="110" y="120" width="500" height="820" as="geometry" />
+          <mxGeometry x="100" y="110" width="520" height="840" as="geometry" />
         </mxCell>
         <mxCell id="dkQlxAO3vUwvlzerJfMj-2" value="Obergeschoss: 31,31 m&lt;sup&gt;2&lt;/sup&gt; (31,06 m&lt;sup&gt;2&lt;/sup&gt; / 34,972 m&lt;sup&gt;2&lt;/sup&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="dkQlxAO3vUwvlzerJfMj-1">
           <mxGeometry x="40" y="40" width="370" height="30" as="geometry" />
