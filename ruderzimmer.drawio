@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T09:42:26.471Z" agent="5.0 (Windows)" etag="x6vSiaX6Ang-fpil7oxo" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-13T09:44:47.351Z" agent="5.0 (Windows)" etag="Qsu3hVW9Off1LNCB8WLc" version="20.1.1" type="github" pages="2">
   <diagram id="GN6P7tGJ_L0M5nmcAcI-" name="Erdgeschoss">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -10,10 +10,10 @@
         <mxCell id="nakAse_tgmJTzeun_6DE-19" value="1128 x 3593&lt;br&gt;= 4052904 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="140" y="640" width="120" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="nakAse_tgmJTzeun_6DE-2" value="3140 x 3225&lt;br&gt;= 10126500 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="nakAse_tgmJTzeun_6DE-2" value="3140 x 3225 =&lt;br&gt;10126500 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="460" y="640" width="240" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="nakAse_tgmJTzeun_6DE-4" value="2080 x 1614&lt;br&gt;= 2257120 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="nakAse_tgmJTzeun_6DE-4" value="2080 x 1614 =&lt;br&gt;2257120 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="480" y="820" width="160" height="140" as="geometry" />
         </mxCell>
         <mxCell id="nakAse_tgmJTzeun_6DE-14" value="Erdgeschoss: 43,52 m&lt;sup&gt;2&lt;/sup&gt; (41,96 m&lt;sup&gt;2&lt;/sup&gt; / 41,168 m&lt;sup&gt;2&lt;/sup&gt;)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="nakAse_tgmJTzeun_6DE-15" value="2535 x 256&lt;br&gt;= 646400 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="500" y="610" width="160" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nakAse_tgmJTzeun_6DE-16" value="4726 x 4960&lt;br&gt;= 23440960 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
+        <mxCell id="nakAse_tgmJTzeun_6DE-16" value="4726 x 4960 =&lt;br&gt;23440960 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
           <mxGeometry x="260" y="640" width="200" height="320" as="geometry" />
         </mxCell>
         <mxCell id="nakAse_tgmJTzeun_6DE-17" value="1128 x 731&lt;br&gt;= 824568 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=10;" parent="1" vertex="1">
