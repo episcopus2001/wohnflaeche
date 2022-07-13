@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T12:26:25.713Z" agent="5.0 (Windows)" etag="dbJQxpKXNXwgDOMdvdGk" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-13T12:42:07.484Z" agent="5.0 (Windows)" etag="YWLHGiuQxVzuEVjWpTEU" version="20.1.1" type="github" pages="2">
   <diagram id="GN6P7tGJ_L0M5nmcAcI-" name="Erdgeschoss">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -61,16 +61,16 @@
         <mxCell id="okBXYjS1Dwwmms0KUjEk-1" value="Terrasse: 7,46 m&lt;sup&gt;2&lt;/sup&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="80" y="390" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="okBXYjS1Dwwmms0KUjEk-2" value="8650 x 3450 =&lt;br&gt;&lt;div&gt;29842500 mm&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;davon 25% sind&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;7460625 mm&lt;sup&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fillStyle=auto;" vertex="1" parent="1">
+        <mxCell id="okBXYjS1Dwwmms0KUjEk-2" value="8630 x 3450 =&lt;br&gt;&lt;div&gt;29773500 mm&lt;sup&gt;2&lt;/sup&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;fillStyle=auto;" vertex="1" parent="1">
           <mxGeometry x="140" y="450" width="560" height="150" as="geometry" />
         </mxCell>
         <mxCell id="okBXYjS1Dwwmms0KUjEk-3" value="1146 x 258 = 295668 mm&lt;sup style=&quot;font-size: 10px;&quot;&gt;2&lt;/sup&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fillStyle=auto;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="270" y="960" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Zhk-bs2KnLwKP7PMCgko-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zhk-bs2KnLwKP7PMCgko-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="210" y="600" width="160" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="Zhk-bs2KnLwKP7PMCgko-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Zhk-bs2KnLwKP7PMCgko-2" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;2535 x 140 = 354900 mm&lt;sup&gt;2&lt;/sup&gt;&lt;/font&gt; " style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="500" y="600" width="160" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Zhk-bs2KnLwKP7PMCgko-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
