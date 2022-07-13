@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-13T12:54:32.964Z" agent="5.0 (Windows)" etag="PKmxWMPqNvwZq1K3Jo5k" version="20.1.1" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-07-13T12:58:46.115Z" agent="5.0 (Windows)" etag="giJyR3p9z7fgYft99tym" version="20.1.1" type="github" pages="2">
   <diagram id="GN6P7tGJ_L0M5nmcAcI-" name="Erdgeschoss">
-    <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="981" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -86,10 +86,10 @@
           <mxGeometry x="100" y="660" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Zhk-bs2KnLwKP7PMCgko-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="990" width="100" height="10" as="geometry" />
+          <mxGeometry x="350" y="990" width="90" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Zhk-bs2KnLwKP7PMCgko-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;fillStyle=auto;" vertex="1" parent="1">
-          <mxGeometry x="350" y="960" width="100" height="30" as="geometry" />
+          <mxGeometry x="350" y="960" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pkgNr8Qh4Z1lOOaoO-3F-2" value="1234500 mm&lt;sup&gt;2&lt;/sup&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;fillStyle=auto;fontSize=10;fillColor=#f8cecc;rotation=90;strokeColor=#b85450;horizontal=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="310" width="80" height="80" as="geometry" />
